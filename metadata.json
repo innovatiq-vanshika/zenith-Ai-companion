@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow AI",
+  "description": "An AI-powered productivity companion that helps students, professionals, and entrepreneurs avoid missed deadlines, reduce overwhelm, make better decisions, and achieve goals successfully.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
